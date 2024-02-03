@@ -1,2 +1,3 @@
 Faisal Belajar Coding 
 - Fokus membuat mobile development
+- Fokus belajar Flutter
