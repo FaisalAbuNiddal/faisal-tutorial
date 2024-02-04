@@ -3,4 +3,6 @@ Belajar Flutter
 2. System looping
 3. Mempelajari UI
 4. Membuat Aplikasi
-5. Koneksi Aplikasi ke hardware
+5. Percobaan sensor
+6. Percobaan aktuator
+
