@@ -1,0 +1,4 @@
+Hallo pak salam kenal saya Faisal Abu Niddal dari Purwakarta, 
+berikut ini resolusi saya :
+1. Belajar Flutter 
+2. Membuat mobile application android monitoring dan controlling IoT
